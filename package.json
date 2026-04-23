@@ -1,1 +1,1 @@
-{"version":"0.0.1","tags":{"streamtags":[]},"exports":[],"displayName":"pack-sec-dst-s3-generic","name":"pack-sec-dst-s3-generic","minLogStreamVersion":"4.12.0"}
+{"name":"pack-sec-dst-s3-generic","version":"0.0.2","minLogStreamVersion":"4.12.0","displayName":"pack-sec-dst-s3-generic","tags":{"streamtags":[]},"exports":[]}
